@@ -1,0 +1,3 @@
+"Attribute Id","Group Id","Block Name","Order Priority (0 for no ordering)","Order Dir (asc/desc)","Container Filter by Block Name"
+1,1,post_date,10,desc,
+2,1,categories,0,asc,

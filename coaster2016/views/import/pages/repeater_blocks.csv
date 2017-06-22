@@ -1,0 +1,56 @@
+Repeater Id,Repeater Row,Block Name,Content
+1,1,slide_title,Welcome to Coaster CMS
+1,1,slide_text,"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo invent"
+1,1,slide_button_text,Take the tour
+1,1,slide_button_icon,"<i class=""fa fa-arrow-down""></i>"
+1,1,slide_image,"O:8:""stdClass"":2:{s:5:""title"";s:0:"""";s:4:""file"";s:42:""/uploads/images/coaster2016/top-banner.jpg"";}"
+1,2,slide_title,Homepage Template
+1,2,slide_button_text,About Us
+1,2,slide_button_link,"a:1:{s:4:""link"";s:12:""internal://2"";}"
+1,2,slide_text,"A second sliding banner
+...."
+1,2,slide_image,"O:8:""stdClass"":2:{s:5:""title"";s:0:"""";s:4:""file"";s:42:""/uploads/images/coaster2016/top-banner.jpg"";}"
+1,2,slide_button_icon,"<i class=""fa fa-chevron-circle-right""></i>"
+2,1,banner_link,"a:1:{s:4:""link"";s:12:""internal://2"";}"
+2,1,banner_image,"O:8:""stdClass"":2:{s:5:""title"";s:0:"""";s:4:""file"";s:43:""/uploads/images/coaster2016/mini-banner.jpg"";}"
+3,1,social_icon,"<i class=""fa fa-facebook-square""></i>"
+3,1,social_name,Facebook
+3,2,social_icon,"<i class=""fa fa-twitter-square""></i>"
+3,2,social_name,Twitter
+3,3,social_icon,"<i class=""fa fa-linkedin-square""></i>"
+3,3,social_name,LinkedIn
+3,4,social_icon,"<i class=""fa fa-youtube""></i>"
+3,4,social_name,YouTube
+4,1,feature_icon,"<i class=""fa fa-paint-brush fa-2x""></i>"
+4,1,feature_title,Title header
+4,1,feature_text,"Vel ad aliquid copiosae, cum id impetus tincidunt, solum option laoreet ei quo. No cum agam appareat vituperata ateum iusto paulo dignissim."
+4,2,feature_icon,"<i class=""fa fa-pencil fa-2x""></i>"
+4,2,feature_title,Title header
+4,2,feature_text,"Vel ad aliquid copiosae, cum id impetus tincidunt, solum option laoreet ei quo. No cum agam appareat vituperata ateum iusto paulo dignissim."
+4,3,feature_icon,"<i class=""fa fa-paper-plane-o fa-2x""></i>"
+4,3,feature_title,Title header
+4,3,feature_text,"Vel ad aliquid copiosae, cum id impetus tincidunt, solum option laoreet ei quo. No cum agam appareat vituperata ateum iusto paulo dignissim."
+4,4,feature_icon,"<i class=""fa fa-signal fa-2x""></i>"
+4,4,feature_title,Title header
+4,4,feature_text,"Vel ad aliquid copiosae, cum id impetus tincidunt, solum option laoreet ei quo. No cum agam appareat vituperata ateum iusto paulo dignissim."
+5,1,member_name,Johanne Smith
+5,1,member_text,Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+5,1,member_image,"O:8:""stdClass"":2:{s:5:""title"";s:0:"""";s:4:""file"";s:36:""/uploads/images/coaster2016/team.jpg"";}"
+5,2,member_name,The Real Johanne Smith
+5,2,member_text,Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+5,2,member_image,"O:8:""stdClass"":2:{s:5:""title"";s:0:"""";s:4:""file"";s:36:""/uploads/images/coaster2016/team.jpg"";}"
+5,3,member_name,Johanne Smith's Clone
+5,3,member_text,Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+5,3,member_image,"O:8:""stdClass"":2:{s:5:""title"";s:0:"""";s:4:""file"";s:36:""/uploads/images/coaster2016/team.jpg"";}"
+5,4,member_name,Johanne Smith Again
+5,4,member_text,Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+5,4,member_image,"O:8:""stdClass"":2:{s:5:""title"";s:0:"""";s:4:""file"";s:36:""/uploads/images/coaster2016/team.jpg"";}"
+6,1,comment_author,John Smith
+6,1,comment_date,2016-08-24 15:11:00
+6,1,comment_content,Well done!
+7,1,comment_date,2016-08-26 13:11:00
+7,1,comment_author,Sally
+7,1,comment_content,Interesting article ....
+7,2,comment_author,Douglas
+7,2,comment_content,Yes
+7,2,comment_date,2016-08-30 10:41:00

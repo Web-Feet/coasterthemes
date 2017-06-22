@@ -1,0 +1,8 @@
+"Page Id","Block Name",Content
+1,carousel,4
+1,title,Home
+2,title,About
+3,contact_form,"O:8:""stdClass"":5:{s:10:""email_from"";s:0:"""";s:8:""email_to"";s:0:"""";s:8:""template"";s:12:""contact_form"";s:7:""page_to"";s:1:""5"";s:7:""captcha"";b:0;}"
+3,title,Contact
+4,title,Sitemap
+5,title,"Thank You"

@@ -1,0 +1,54 @@
+"Repeater Id","Repeater Row","Block Name",Content
+1,1,slide_button_icon,"<i class=""fa fa-arrow-down""></i>"
+1,1,slide_button_text,"Take the tour"
+1,1,slide_image,"O:8:""stdClass"":2:{s:4:""file"";s:38:""/uploads/images/coaster2017/banner.jpg"";s:5:""title"";s:0:"""";}"
+1,1,slide_text,"Edition 2017"
+1,1,slide_title,"Welcome to Coaster CMS"
+1,2,slide_button_icon,"<i class=""fa fa-chevron-circle-right""></i>"
+1,2,slide_button_link,"a:2:{s:4:""link"";s:12:""internal://2"";s:6:""target"";s:0:"""";}"
+1,2,slide_button_text,"About Us"
+1,2,slide_image,"O:8:""stdClass"":2:{s:4:""file"";s:38:""/uploads/images/coaster2017/banner.jpg"";s:5:""title"";s:0:"""";}"
+1,2,slide_text,"All text and image blocks can be edited"
+1,2,slide_title,"This is the Homepage Template"
+2,1,banner_image,"O:8:""stdClass"":2:{s:4:""file"";s:43:""/uploads/images/coaster2017/mini-banner.jpg"";s:5:""title"";s:0:"""";}"
+2,1,banner_link,"a:2:{s:4:""link"";s:12:""internal://2"";s:6:""target"";s:0:"""";}"
+2,2,banner_image,"O:8:""stdClass"":2:{s:4:""file"";s:43:""/uploads/images/coaster2017/mini-banner.jpg"";s:5:""title"";s:0:"""";}"
+2,2,banner_link,"a:2:{s:4:""link"";s:12:""internal://5"";s:6:""target"";s:0:"""";}"
+3,1,social_icon,"<i class=""fa fa-facebook-square""></i>"
+3,1,social_name,Facebook
+3,2,social_icon,"<i class=""fa fa-twitter-square""></i>"
+3,2,social_name,Twitter
+3,3,social_icon,"<i class=""fa fa-linkedin-square""></i>"
+3,3,social_name,LinkedIn
+3,4,social_icon,"<i class=""fa fa-youtube""></i>"
+3,4,social_name,YouTube
+4,1,feature_icon,"<i class=""fa fa-wrench fa-2x""></i>"
+4,1,feature_text,"Vel ad aliquid copiosae, cum id impetus tincidunt, solum option laoreet ei quo. No cum agam appareat vituperata ateum iusto paulo dignissim."
+4,1,feature_title,Customisable
+4,2,feature_icon,"<i class=""fa fa-desktop fa-2x""></i>"
+4,2,feature_text,"Vel ad aliquid copiosae, cum id impetus tincidunt, solum option laoreet ei quo. No cum agam appareat vituperata ateum iusto paulo dignissim."
+4,2,feature_title,Picturesque
+4,3,feature_icon,"<i class=""fa fa-life-ring fa-2x""></i>"
+4,3,feature_text,"Vel ad aliquid copiosae, cum id impetus tincidunt, solum option laoreet ei quo. No cum agam appareat vituperata ateum iusto paulo dignissim."
+4,3,feature_title,"Perfect Support"
+5,1,member_image,"O:8:""stdClass"":2:{s:4:""file"";s:36:""/uploads/images/coaster2017/team.jpg"";s:5:""title"";s:0:"""";}"
+5,1,member_name,"Johanne Smith (Team Leader)"
+5,1,member_text,"Nemo enim ipsam voluptatem quia voluptas sit aspernatur"
+5,2,member_image,"O:8:""stdClass"":2:{s:4:""file"";s:36:""/uploads/images/coaster2017/team.jpg"";s:5:""title"";s:0:"""";}"
+5,2,member_name,"The Real Johanne Smith (Sales)"
+5,2,member_text,"Nemo enim ipsam voluptatem quia voluptas sit aspernatur"
+5,3,member_image,"O:8:""stdClass"":2:{s:4:""file"";s:36:""/uploads/images/coaster2017/team.jpg"";s:5:""title"";s:0:"""";}"
+5,3,member_name,"Johanne Smith's Clone (Help Desk)"
+5,3,member_text,"Nemo enim ipsam voluptatem quia voluptas sit aspernatur"
+5,4,member_image,"O:8:""stdClass"":2:{s:4:""file"";s:36:""/uploads/images/coaster2017/team.jpg"";s:5:""title"";s:0:"""";}"
+5,4,member_name,"Johanne Smith Again (Accountant)"
+5,4,member_text,"Nemo enim ipsam voluptatem quia voluptas sit aspernatur"
+6,1,comment_author,"John Smith"
+6,1,comment_content,"Well done!"
+6,1,comment_date,"2016-08-24 15:11:00"
+7,1,comment_author,Sally
+7,1,comment_content,"Interesting article ...."
+7,1,comment_date,"2016-08-26 13:11:00"
+7,2,comment_author,Douglas
+7,2,comment_content,Yes
+7,2,comment_date,"2016-08-30 10:41:00"

@@ -1,0 +1,4 @@
+.navbar-nav > li > a {padding-top:20px !important; padding-bottom:20px !important;}
+.carousel {margin-top:20px;}
+.carousel .item{padding:50px 0; background: #333; margin:0; text-align:center; color:#fff;}
+section, footer{padding:60px 0;}

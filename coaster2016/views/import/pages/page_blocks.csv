@@ -1,0 +1,117 @@
+Page Id,Block Name,Content
+0,blog_archive_page,27
+0,blog_category_page,25
+0,blog_main_page,22
+0,blog_search_page,26
+0,copyright,Coaster
+0,feature,4
+0,features_lead_text,At vero eos et accusamus et iusto odio
+0,features_title,Features loved by users
+0,internal_banner,"O:8:""stdClass"":2:{s:5:""title"";s:0:"""";s:4:""file"";s:42:""/uploads/images/coaster2016/top-banner.jpg"";}"
+0,logo,"O:8:""stdClass"":2:{s:5:""title"";s:0:"""";s:4:""file"";s:44:""/uploads/images/coaster2016/logo_example.png"";}"
+0,meta_description,%page_name%
+0,meta_title,%page_name% | %site_name%
+0,scroll_to_top_text,Back to top
+0,show_features,1
+0,social,3
+1,banner,2
+1,carousel,1
+1,lead_text,Oomnis iste natus error sit voluptatem ipsa quae ab illo invent
+1,show_features,1
+1,show_sub_pages,6
+1,title,Sections
+2,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima ven</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima ven</p>
+<ul>
+<li>Sed ut perspiciatis</li>
+<li>Sed ut perspiciatis</li>
+<li>Sed ut perspiciatis</li>
+</ul>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima ven</p>"
+2,icon,"<i class=""fa fa-paint-brush fa-2x""></i> "
+2,lead_text,Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+2,sidebar_content,"<p>Important sidebar stuff</p>
+<p>Important sidebar stuff</p>
+<p>Important sidebar stuff</p>"
+2,sidebar_title,Sidebar
+2,title,Welcome to Coaster CMS internal template
+3,address,"123 Way, The City, 
+Planet Earth"
+3,contact_form,"O:8:""stdClass"":5:{s:10:""email_from"";s:0:"""";s:8:""email_to"";s:0:"""";s:8:""template"";i:0;s:7:""page_to"";s:1:""4"";s:7:""captcha"";b:1;}"
+3,contact_form_text,If you would like to email us please use the form below:
+3,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem, sed quia consequuntur magni dolores eos quin</p>"
+3,email,info@thiswebsite.internet
+3,lead_text,Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+3,map_link,https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2511.879232160876!2d-1.383762737115256!3d50.98142284230224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48747369943f2f59%3A0xaec570fd56e4fd31!2sWeb+Feet+Ltd!5e0!3m2!1sen!2suk!4v1460459965879
+3,phone,123 456 789
+3,title,Contact Us Template
+4,lead_text,"Thank you for contacting us, we will be in touch shortly."
+4,title,Thank You Template
+5,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>"
+5,lead_text,Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+5,team,5
+5,title,Meet the Team
+6,category_view,detailed
+6,title,Services
+7,category_view,detailed
+7,title,Products
+8,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+<p>&nbsp;</p>"
+8,icon,"<i class=""fa fa-cloud-upload fa-2x""></i>"
+8,title,Cloud Control
+8,video,gu4FYSFeWqg
+9,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>"
+9,icon,"<i class=""fa fa-line-chart fa-2x""></i>"
+9,title,Positive Graphs
+10,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>"
+10,icon,"<i class=""fa fa-commenting fa-2x""></i>"
+10,title,Bits and Bobs
+11,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>"
+11,icon,"<i class=""fa fa-server fa-2x""></i>"
+11,title,Serious Hosting
+12,category_view,detailed
+12,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem, sed quia consequuntur magni dolores eos quin</p>"
+12,lead_text,Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+12,title,Big Products
+13,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem, sed quia consequuntur magni dolores eos quin</p>"
+13,lead_text,Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+13,title,Small Products
+14,title,Starter Product
+15,title,Product
+16,title,Product in blue
+17,title,Product in orange
+18,title,Product Plus
+19,title,Superior Product
+20,title,Ultimate Product
+21,title,Sitemap
+22,category_view,posts
+22,title,Blog
+23,categories,"a:2:{i:0;s:3:""Cms"";i:1;s:7:""Coaster"";}"
+23,comments,6
+23,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima ven</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima ven</p>"
+23,lead_text,Welcome to our new site.
+23,post_author,demo@coastercms.org
+23,post_date,2016-08-24 00:00:00
+23,title,New Website Launched
+24,categories,"a:3:{i:0;s:7:""Laravel"";i:1;s:10:""Innovation"";i:2;s:7:""Coaster"";}"
+24,comments,7
+24,content,"<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima ven</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima ven</p>
+<ul>
+<li>Cake</li>
+<li>Biscuits</li>
+<li>Chocolate</li>
+</ul>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima ven</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima ven</p>"
+24,lead_text,Changes to the market are coming ...
+24,post_author,1
+24,post_date,2016-06-20 00:00:00
+24,title,Another Interesting Article
+25,category_view,posts
+25,title,Category
+26,category_view,posts
+26,title,Search
+27,category_view,posts
+27,title,Archive

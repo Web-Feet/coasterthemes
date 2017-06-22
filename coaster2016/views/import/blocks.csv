@@ -1,0 +1,61 @@
+"Block Name","Block Label","Block Note","Block Category","Block Type","Global (show in site-wide)","Global (show in pages)",Templates,"Block Order"
+category_view,"Category View",,"Main Content",select,no,no,"blog-archives,blog-category,blog-search,blog,category",110
+title,Title,,"Main Content",string,no,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",80
+lead_text,"Lead Text",,"Main Content",text,no,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,team",90
+content,Content,,"Main Content",richtext,no,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,internal,team",100
+icon,"Page Icon",,"Main Content",selectclass,no,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",200
+post_date,"Post Date",,"Main Content",datetime,no,no,blog-post,85
+post_author,"Post Author",,"Main Content",selectuser,no,no,blog-post,84
+video,Video,,"Main Content",video,no,no,"blog-post,internal",110
+categories,Categories,,Filters,selectmultiplewnew,no,no,blog-post,110
+comments,Comments,,"Main Content",repeater,no,no,blog-post,130
+email,Email,,"Main Content",string,no,no,contact,110
+phone,Phone,,"Main Content",string,no,no,contact,120
+address,Address,,"Main Content",text,no,no,contact,130
+contact_form,"Contact Form",,"Main Content",form,no,no,contact,140
+map_link,"Map Link",,"Main Content",string,no,no,contact,150
+contact_form_text,"Contact Form Text",,"Main Content",text,no,no,contact,145
+carousel,Carousel,,Banners,repeater,no,no,home,70
+show_sub_pages,"Show Sub Pages",,"Main Content",selectpage,no,no,home,100
+banner,"Mini Banner",,"Main Content",repeater,no,no,home,110
+sidebar_title,"Sidebar Title",,Sidebar,string,no,no,internal,80
+sidebar_content,"Sidebar Content",,Sidebar,richtext,no,no,internal,90
+team,Team,,"Main Content",repeater,no,no,team,110
+meta_title,"Meta Title",,"SEO Content",string,yes,yes,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",20
+meta_description,"Meta Description",,"SEO Content",text,yes,yes,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",30
+meta_keywords,"Meta Keywords",,"SEO Content",text,yes,yes,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",40
+header_html,"Header Html",,Header,text,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",50
+logo,Logo,,Header,image,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",140
+internal_banner,"Internal Banner",,Banners,image,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,internal,sitemap,team",70
+blog_category_page,"Blog Category Page",,Blog,selectpage,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog",120
+blog_main_page,"Blog Main Page",,Blog,selectpage,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog",100
+blog_archive_page,"Blog Archive Page",,Blog,selectpage,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog",130
+show_features,"Show Features",,Footer,select,yes,yes,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",120
+features_title,"Features Title",,Footer,string,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",130
+features_lead_text,"Features Lead Text",,Footer,text,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",140
+feature,Feature,,Footer,repeater,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",150
+social,Social,,Footer,repeater,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",160
+scroll_to_top_text,"Scroll To Top Text",,"Main Content",text,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",170
+copyright,Copyright,,Footer,string,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",180
+blog_search_page,"Blog Search Page",,Blog,selectpage,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",110
+footer_html,"Footer Html",,Footer,text,yes,no,"blog-archives,blog-category,blog-post,blog-search,blog,category,contact,home,internal,sitemap,team",130
+comment_author,"Comment Author",,,string,no,no,,10
+comment_content,"Comment Content",,,text,no,no,,30
+comment_date,"Comment Date",,,datetime,no,no,,40
+slide_image,"Slide Image",,,image,no,no,,110
+slide_title,"Slide Title",,,string,no,no,,120
+slide_text,"Slide Text",,,text,no,no,,130
+slide_button_link,"Slide Button Link",,,link,no,no,,140
+slide_button_text,"Slide Button Text",,,text,no,no,,150
+slide_button_icon,"Slide Button Icon",,,selectclass,no,no,,160
+banner_link,"Banner Link",,,link,no,no,,170
+banner_image,"Banner Image",,,image,no,no,,180
+member_image,"Member Image",,,image,no,no,,190
+member_name,"Member Name",,,string,no,no,,200
+member_text,"Member Text",,,text,no,no,,210
+feature_icon,"Feature Icon",,,selectclass,no,no,,50
+feature_title,"Feature Title",,,string,no,no,,60
+feature_text,"Feature Text",,,text,no,no,,70
+social_link,"Social Link",,,link,no,no,,80
+social_icon,"Social Icon",,,selectclass,no,no,,90
+social_name,"Social Name",,,string,no,no,,100
