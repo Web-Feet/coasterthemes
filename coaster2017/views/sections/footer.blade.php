@@ -49,7 +49,7 @@
 
         $("#scrollbutton2").click(function() {
             $('html, body').animate({
-                scrollTop: $("#top").offset().top
+                scrollTop: 0
             }, 1000);
         });
 
